@@ -87,4 +87,11 @@ El archivo `Ejercicio6/ejercicio6.sql` contiene consultas para:
 
 ---
 
+## Equipo de desarrollo
+
+Proyecto académico desarrollado en equipo por:
+
+- [Juliana Sarmiento](https://github.com/julisarmiento)
+- [Samuel Quintero](https://github.com/SamQuintero22)
+
 Proyecto desarrollado con fines académicos.
