@@ -18,7 +18,6 @@ Desde la aplicación de consola es posible:
 
 - **PostgreSQL:** sistema de gestión de bases de datos.
 - **SQL:** creación de tablas, inserción de datos y consultas.
-- **PL/pgSQL:** función y trigger de auditoría.
 - **Java:** desarrollo de la aplicación de consola.
 - **JDBC:** conexión entre Java y PostgreSQL.
 
